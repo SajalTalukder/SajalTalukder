@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/script-writing-software-engineering-coding-workshop-code-created-workshop-online-programming-course-apps-games-development-182535368.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/script-writing-software-engineering-coding-workshop-code-created-workshop-online-programming-course-apps-games-development-182535368.jpg)
 <h1 align="center">Hi 👋, I'm Sajal Talukder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"  />
