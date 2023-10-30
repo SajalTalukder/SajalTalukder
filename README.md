@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sajal-talukder-portfolio.vercel.app/](https://sajal-talukder-portfolio.vercel.app/)
 
-- 💬 Ask me about **react,nextjs,javaScript,tailwind css**
+- 💬 Ask me about **react,nextjs, javaScript,tailwind css**
 
 - 📫 How to reach me **sajaltalukder01@gmail.com**
 
