@@ -2,11 +2,7 @@
 
 ### 🌌 Full-Stack MERN Developer | Web Enthusiast
 
-<p align="left">
-  <a href="https://github.com/sajaltalukder">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=500&lines=I'm+a+Full-Stack+Developer;Building+MERN+Stack+Apps;Loving+Modern+Web+Tech" alt="Typing SVG"/>
-  </a>
-</p>
+I’m a passionate **Full-Stack MERN Developer** specializing in **modern web development**. I build clean, responsive, and interactive web applications. I also share knowledge through my tech YouTube channel **Web Dev Warriors**.  
 
 ---
 
@@ -28,12 +24,35 @@
 
 ---
 
+## 💻 Projects
+
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| **Bank Review System** | MERN, Tailwind, Redux | [View Demo](https://mybank-lake.vercel.app/) |
+| **Event Management System** | MERN, Tailwind, Redux | [View Demo](https://eventify-woad-seven.vercel.app/) |
+| **Portfolio Website** | Next.js, Tailwind | [View Demo](https://devportfoliowebsite.vercel.app/) |
+
+---
+
+## 🎥 Latest YouTube Videos
+
+<p float="left" align="center">
+  <a href="https://youtu.be/6XF_uhF4axg?si=NXtuqqddq5QiiQhP">
+    <img src="https://img.youtube.com/vi/6XF_uhF4axg/hqdefault.jpg" alt="Latest Video 1" width="320" />
+  </a>
+  <a href="https://youtu.be/MoymUF6dfs0?si=_z80uqf2TbRWAqbz">
+    <img src="https://img.youtube.com/vi/MoymUF6dfs0/hqdefault.jpg" alt="Latest Video 2" width="320" />
+  </a>
+</p>
+
+---
+
 ## 📫 Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)  
+- Email: [sajaltalukder01@gmail.com](mailto:sajaltalukder01@gmail.com)  
 - YouTube: [Web Dev Warriors](https://www.youtube.com/@webdevwarriors)  
-- LinkedIn: [Your LinkedIn](#)  
-- Portfolio: [Your Portfolio](#)  
+- LinkedIn: [Sajal Talukder](https://www.linkedin.com/in/sajal-talukder/)  
+- Portfolio: [My Portfolio](https://devportfoliowebsite.vercel.app/)  
 
 ---
 
@@ -52,11 +71,3 @@
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajaltalukder&theme=radical)
-
----
-
-## 🎥 Latest YouTube Video
-
-[![Latest Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> Replace `YOUR_VIDEO_ID` with the ID of your latest video. You can find it in the YouTube URL: `https://www.youtube.com/watch?v=VIDEO_ID`.
