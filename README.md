@@ -40,9 +40,6 @@ I’m a passionate **Full-Stack MERN Developer** specializing in **modern web de
   <a href="https://youtu.be/6XF_uhF4axg?si=NXtuqqddq5QiiQhP">
     <img src="https://img.youtube.com/vi/6XF_uhF4axg/hqdefault.jpg" alt="Video 1" width="320" />
   </a>
-  <a href="https://youtu.be/MoymUF6dfs0?si=_z80uqf2TbRWAqbz">
-    <img src="https://img.youtube.com/vi/MoymUF6dfs0/hqdefault.jpg" alt="Video 2" width="320" />
-  </a>
   <a href="https://youtu.be/UIT2wuq7heo?si=PS3LqceXnUtsEhxV">
     <img src="https://img.youtube.com/vi/UIT2wuq7heo/hqdefault.jpg" alt="Video 4" width="320" />
   </a>
