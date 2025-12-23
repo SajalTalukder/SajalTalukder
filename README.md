@@ -38,10 +38,13 @@ I’m a passionate **Full-Stack MERN Developer** specializing in **modern web de
 
 <p float="left" align="center">
   <a href="https://youtu.be/6XF_uhF4axg?si=NXtuqqddq5QiiQhP">
-    <img src="https://img.youtube.com/vi/6XF_uhF4axg/hqdefault.jpg" alt="Latest Video 1" width="320" />
+    <img src="https://img.youtube.com/vi/6XF_uhF4axg/hqdefault.jpg" alt="Video 1" width="320" />
   </a>
   <a href="https://youtu.be/MoymUF6dfs0?si=_z80uqf2TbRWAqbz">
-    <img src="https://img.youtube.com/vi/MoymUF6dfs0/hqdefault.jpg" alt="Latest Video 2" width="320" />
+    <img src="https://img.youtube.com/vi/MoymUF6dfs0/hqdefault.jpg" alt="Video 2" width="320" />
+  </a>
+  <a href="https://youtu.be/UIT2wuq7heo?si=PS3LqceXnUtsEhxV">
+    <img src="https://img.youtube.com/vi/UIT2wuq7heo/hqdefault.jpg" alt="Video 4" width="320" />
   </a>
 </p>
 
@@ -61,13 +64,5 @@ I’m a passionate **Full-Stack MERN Developer** specializing in **modern web de
 - Always experimenting with new web technologies  
 - Sharing knowledge through my YouTube channel  
 
----
 
-## 📊 GitHub Stats & Contribution
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajaltalukder&show_icons=true&count_private=true&theme=radical" alt="Sajal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajaltalukder&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajaltalukder&theme=radical)
