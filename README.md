@@ -1,14 +1,15 @@
 # Hi there, I'm Sajal Talukder 👋
 
-### 🌌 Full-Stack MERN Developer | Web Enthusiast
+### 🚀 Full-Stack MERN Developer | Software Developer
 
-I’m a passionate **Full-Stack MERN Developer** specializing in **modern web development**. I build clean, responsive, and interactive web applications. I also share knowledge through my tech YouTube channel **Web Dev Warriors**.  
+I’m a passionate **Full-Stack MERN Developer** focused on building **scalable, clean, and modern web applications**.  
+I enjoy turning complex problems into simple, elegant solutions and sharing my knowledge through my tech YouTube channel **Web Dev Warriors**.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -26,40 +27,51 @@ I’m a passionate **Full-Stack MERN Developer** specializing in **modern web de
 
 ## 💻 Projects
 
-| Project | Tech Stack | Live Demo |
-|---------|------------|-----------|
-| **Bank Review System** | MERN, Tailwind, Redux | [View Demo](https://mybank-lake.vercel.app/) |
-| **Event Management System** | MERN, Tailwind, Redux | [View Demo](https://eventify-woad-seven.vercel.app/) |
-| **Portfolio Website** | Next.js, Tailwind | [View Demo](https://devportfoliowebsite.vercel.app/) |
+| Project | Description | Live Demo |
+|--------|------------|-----------|
+| **Bank Review System** | Secure banking review platform with modern UI | [View Demo](https://mybank-lake.vercel.app/) |
+| **Event Management System** | Event planning & management web app | [View Demo](https://eventify-woad-seven.vercel.app/) |
+| **Portfolio Website** | Personal portfolio built with Next.js | [View Demo](https://devportfoliowebsite.vercel.app/) |
 
 ---
 
 ## 🎥 Latest YouTube Videos
 
-<p float="left" align="center">
-  <a href="https://youtu.be/6XF_uhF4axg?si=NXtuqqddq5QiiQhP">
-    <img src="https://img.youtube.com/vi/6XF_uhF4axg/hqdefault.jpg" alt="Video 1" width="320" />
+<p align="center">
+  <a href="https://youtu.be/6XF_uhF4axg">
+    <img src="https://img.youtube.com/vi/6XF_uhF4axg/hqdefault.jpg" width="320" />
   </a>
-  <a href="https://youtu.be/UIT2wuq7heo?si=PS3LqceXnUtsEhxV">
-    <img src="https://img.youtube.com/vi/UIT2wuq7heo/hqdefault.jpg" alt="Video 4" width="320" />
+  <a href="https://youtu.be/UIT2wuq7heo">
+    <img src="https://img.youtube.com/vi/UIT2wuq7heo/hqdefault.jpg" width="320" />
   </a>
 </p>
 
 ---
 
-## 📫 Contact Me
-
-- Email: [sajaltalukder01@gmail.com](mailto:sajaltalukder01@gmail.com)  
-- YouTube: [Web Dev Warriors](https://www.youtube.com/@webdevwarriors)  
-- LinkedIn: [Sajal Talukder](https://www.linkedin.com/in/sajal-talukder/)  
-- Portfolio: [My Portfolio](https://devportfoliowebsite.vercel.app/)  
+## 🔭 Currently Working On
+- Building advanced MERN stack projects  
+- Creating educational content on YouTube  
+- Improving system design & backend skills  
 
 ---
 
-## 🎮 Fun Fact
+## 💼 Open to Opportunities
+- Junior / Intern / Entry-Level Full-Stack Roles  
+- Freelance & Remote Projects  
 
-- Always experimenting with new web technologies  
-- Sharing knowledge through my YouTube channel  
+---
 
+## 📫 Contact Me
 
+- 📧 Email: **sajaltalukder01@gmail.com**
+- 💼 LinkedIn: [Sajal Talukder](https://www.linkedin.com/in/sajal-talukder/)
+- 🌐 Portfolio: [devportfoliowebsite.vercel.app](https://devportfoliowebsite.vercel.app/)
+- ▶️ YouTube: [Web Dev Warriors](https://www.youtube.com/@webdevwarriors)
 
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SajalTalukder/SajalTalukder/output/github-contribution-grid-snake.svg" />
+</p>
